@@ -17,7 +17,6 @@ This is a group project developed by:
 - 📁 Category-based Book Organization
 - ⬆️ Book Upload Functionality
 - 👤 User Profile Management
-- 🌓 Dark Mode Toggle
 - 📱 Responsive Design (Mobile-friendly)
 - 🔍 Advanced Search Capabilities
 
@@ -25,7 +24,7 @@ This is a group project developed by:
 
 - **Backend:** Flask (Python)
 - **Database:** SQLAlchemy with SQLite
-- **Frontend:** HTML, Tailwind CSS, JavaScript
+- **Frontend:** HTML, Tailwind CSS
 - **Authentication:** Flask-Login
 - **Database Migrations:** Alembic, Flask-Migrate
 
